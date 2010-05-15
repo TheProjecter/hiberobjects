@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="org.eclipse.jdt.core_3.5.0.v_963.jar"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="bin-unittests" path="unittests"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="/Users/lars/HiberObjects/workspace/com.objectgeneration.core/doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="/Users/lars/HiberObjects/workspace/com.objectgeneration.core/doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
